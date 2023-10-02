@@ -1,0 +1,7 @@
+package class4;
+
+public class Notes {
+}
+//If else statements:
+//If else statements help us write code that can take a decision based on a value and can execute selective code.
+//They work based on a boolean value.
